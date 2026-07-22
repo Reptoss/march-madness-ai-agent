@@ -1,0 +1,68 @@
+Season,Round,Region,WTeamID,WTeamName,WScore,LTeamID,LTeamName,LScore
+2026,First Four,Midwest,1224,Howard,86,1420,UMBC,83
+2026,First Four,West,1400,Texas,68,1301,NC State,66
+2026,First Four,South,1341,Prairie View,67,1250,Lehigh,55
+2026,First Four,Midwest,1275,Miami OH,89,1374,SMU,79
+2026,Round of 64,East,1181,Duke,71,1373,Siena,65
+2026,Round of 64,East,1395,TCU,66,1326,Ohio St,64
+2026,Round of 64,East,1385,St John's,79,1320,Northern Iowa,53
+2026,Round of 64,East,1242,Kansas,68,1465,Cal Baptist,60
+2026,Round of 64,East,1257,Louisville,83,1378,South Florida,79
+2026,Round of 64,East,1277,Michigan St,92,1295,N Dakota St,67
+2026,Round of 64,East,1417,UCLA,75,1416,UCF,71
+2026,Round of 64,East,1163,Connecticut,82,1202,Furman,71
+2026,Round of 32,East,1181,Duke,81,1395,TCU,58
+2026,Round of 32,East,1385,St John's,67,1242,Kansas,65
+2026,Round of 32,East,1277,Michigan St,77,1257,Louisville,69
+2026,Round of 32,East,1163,Connecticut,73,1417,UCLA,57
+2026,Sweet 16,East,1181,Duke,80,1385,St John's,75
+2026,Sweet 16,East,1163,Connecticut,67,1277,Michigan St,63
+2026,Elite 8,East,1163,Connecticut,73,1181,Duke,72
+2026,Round of 64,South,1196,Florida,114,1341,Prairie View,55
+2026,Round of 64,South,1234,Iowa,67,1155,Clemson,61
+2026,Round of 64,South,1435,Vanderbilt,78,1270,McNeese St,68
+2026,Round of 64,South,1304,Nebraska,76,1407,Troy,47
+2026,Round of 64,South,1433,VCU,82,1314,North Carolina,78
+2026,Round of 64,South,1228,Illinois,105,1335,Penn,70
+2026,Round of 64,South,1401,Texas A&M,63,1388,St Mary's CA,50
+2026,Round of 64,South,1222,Houston,78,1225,Idaho,47
+2026,Round of 32,South,1234,Iowa,73,1196,Florida,72
+2026,Round of 32,South,1304,Nebraska,74,1435,Vanderbilt,72
+2026,Round of 32,South,1228,Illinois,76,1433,VCU,55
+2026,Round of 32,South,1222,Houston,88,1401,Texas A&M,57
+2026,Sweet 16,South,1234,Iowa,77,1304,Nebraska,71
+2026,Sweet 16,South,1228,Illinois,65,1222,Houston,55
+2026,Elite 8,South,1228,Illinois,71,1234,Iowa,59
+2026,Round of 64,West,1112,Arizona,92,1254,LIU Brooklyn,58
+2026,Round of 64,West,1429,Utah St,86,1437,Villanova,76
+2026,Round of 64,West,1219,High Point,83,1458,Wisconsin,82
+2026,Round of 64,West,1116,Arkansas,97,1218,Hawaii,78
+2026,Round of 64,West,1400,Texas,79,1140,BYU,71
+2026,Round of 64,West,1211,Gonzaga,73,1244,Kennesaw,64
+2026,Round of 64,West,1274,Miami FL,80,1281,Missouri,66
+2026,Round of 64,West,1345,Purdue,104,1474,Queens NC,71
+2026,Round of 32,West,1112,Arizona,78,1429,Utah St,66
+2026,Round of 32,West,1116,Arkansas,94,1219,High Point,88
+2026,Round of 32,West,1400,Texas,74,1211,Gonzaga,68
+2026,Round of 32,West,1345,Purdue,79,1274,Miami FL,69
+2026,Sweet 16,West,1112,Arizona,109,1116,Arkansas,88
+2026,Sweet 16,West,1345,Purdue,79,1400,Texas,77
+2026,Elite 8,West,1112,Arizona,79,1345,Purdue,64
+2026,Round of 64,Midwest,1276,Michigan,101,1224,Howard,80
+2026,Round of 64,Midwest,1387,St Louis,102,1208,Georgia,77
+2026,Round of 64,Midwest,1403,Texas Tech,91,1103,Akron,71
+2026,Round of 64,Midwest,1104,Alabama,90,1220,Hofstra,70
+2026,Round of 64,Midwest,1397,Tennessee,78,1275,Miami OH,56
+2026,Round of 64,Midwest,1438,Virginia,82,1460,Wright St,73
+2026,Round of 64,Midwest,1246,Kentucky,89,1365,Santa Clara,84
+2026,Round of 64,Midwest,1235,Iowa St,108,1398,Tennessee St,74
+2026,Round of 32,Midwest,1276,Michigan,95,1387,St Louis,72
+2026,Round of 32,Midwest,1104,Alabama,90,1403,Texas Tech,65
+2026,Round of 32,Midwest,1397,Tennessee,79,1438,Virginia,72
+2026,Round of 32,Midwest,1235,Iowa St,82,1246,Kentucky,63
+2026,Sweet 16,Midwest,1276,Michigan,90,1104,Alabama,77
+2026,Sweet 16,Midwest,1397,Tennessee,76,1235,Iowa St,62
+2026,Elite 8,Midwest,1276,Michigan,95,1397,Tennessee,62
+2026,Final Four,,1163,Connecticut,71,1228,Illinois,62
+2026,Final Four,,1276,Michigan,91,1112,Arizona,73
+2026,Championship,,1276,Michigan,69,1163,Connecticut,63
