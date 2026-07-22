@@ -220,3 +220,6 @@ __marimo__/
 # Local March Madness data
 data/raw/
 march-machine-learning-mania-2026.zip
+data/processed/
+models/
+reports/generated/
